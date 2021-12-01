@@ -1,0 +1,14 @@
+C:\Users\karina.calisto.ext\source\repos\Cronometro\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.exe
+C:\Users\karina.calisto.ext\source\repos\Cronometro\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.deps.json
+C:\Users\karina.calisto.ext\source\repos\Cronometro\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.runtimeconfig.json
+C:\Users\karina.calisto.ext\source\repos\Cronometro\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.runtimeconfig.dev.json
+C:\Users\karina.calisto.ext\source\repos\Cronometro\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.dll
+C:\Users\karina.calisto.ext\source\repos\Cronometro\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.pdb
+C:\Users\karina.calisto.ext\source\repos\Cronometro\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.csproj.AssemblyReference.cache
+C:\Users\karina.calisto.ext\source\repos\Cronometro\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karina.calisto.ext\source\repos\Cronometro\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.AssemblyInfoInputs.cache
+C:\Users\karina.calisto.ext\source\repos\Cronometro\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.AssemblyInfo.cs
+C:\Users\karina.calisto.ext\source\repos\Cronometro\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\karina.calisto.ext\source\repos\Cronometro\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.dll
+C:\Users\karina.calisto.ext\source\repos\Cronometro\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.pdb
+C:\Users\karina.calisto.ext\source\repos\Cronometro\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.genruntimeconfig.cache
